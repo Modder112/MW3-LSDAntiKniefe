@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\SniperMode\SniperMode\bin\Debug\InfinityScript.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\SniperMode\SniperMode\obj\Debug\SniperMode.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\SniperMode\SniperMode\bin\Debug\SniperMod1.1.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\SniperMode\SniperMode\bin\Debug\SniperMod1.1.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\SniperMode\SniperMode\obj\Debug\SniperMod1.1.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\SniperMode\SniperMode\obj\Debug\SniperMod1.1.pdb
